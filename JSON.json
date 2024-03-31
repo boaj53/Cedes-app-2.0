@@ -1,0 +1,1483 @@
+{
+    "semestres": [
+        {
+            "id": 1,
+            "nombre": "Primer Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Economia y Mercado",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                                
+                            
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]                 
+                },
+                {
+                    "id": 2,
+                    "nombre": "Estado y Sociedad",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Gobierno y Poblacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Naturaleza del Conocimiento",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "Razonamiento Matematico",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "Sociedad Actual",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Segundo Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Analisis de teoria de conjuntos",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Conceptualizacion de la estadistica Descriptiva",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Conceptualizacion de las tecnologias de informacion y comunicacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Conceptualizacion de Sistemas de Informacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "Investigacion Social",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Tercer Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Analisis de datos con un softaware especializado",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Aplicacion de la estadistica descriptiva en las ciencias sociales",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Aplicacion del sistema de informacion referenciada geoesacialmente",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "Subcompentencia 5",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "Subcompentencia 6",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Conceptualizacion de la probabilidad",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "Diagnostico socioeconomico del contexto",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "Diseño de sistemas de informacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "Introduccion a la metodologia de la investigacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Cuarto Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Analisis de la estadistica inferencial",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Analisis de tecnologias de informacion y comunicacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Analisis Economico",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Aplicacion Probabilistica",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "Conceptualizacion del Muestreo",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "Diseño de Proyectos de Investigacion Cuantativa",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "identificacion de Tipos de Sistemas de Informacion y Fuentes de Datos",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Quinto Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Analisis Estadistico del Desarrollo Humano",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Aplicacion de la Estadistica Inferencial a las Condiciones de Vida",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Asociacion de Variables",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Diseño de Experimento",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "Diseño de Proyectos de Investigacion Cualitativa",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "Investigacion de Operaciones",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "Utilizacion de Sistemas de Informacion Para la toma de Decisiones",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Sexto Semestre",
+            "pantalla": "Semestres",
+            "materias": [
+                {
+                    "id": 1,
+                    "nombre": "Analisis de al Estadistica no Parametrica",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Analisis Demografico",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Subcompentencia 4",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "Aplicacion de la Estadisitca a la Educacion",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Subcompentencia 3",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "Seminario de Tesis",
+                    "pantalla": "Materias",
+                    "subcompetencia": [
+                        {
+                            "id": 1,
+                            "nombre": "Subcompentencia 1",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Subcompentencia 2",
+                            "pantalla": "Subcompentencias",
+                            "materiales_de_apoyo": [
+                                {
+
+                                }
+                            ]
+
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
