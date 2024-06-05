@@ -14,8 +14,6 @@ const handlePress = () => {
   return (
     <View style={styles.container}>
 
-      
-
       <View>
       <Image source={require('../../assets/Login/Login.png')} style={styles.image}/>
       
@@ -72,10 +70,7 @@ const styles = StyleSheet.create({
 
   image: {
     flex: 1,
-    resizeMode: 'cover',
-    
-    
-    
+    resizeMode: 'cover',  
   },
   gradient: {
     position: 'absolute',
@@ -88,16 +83,16 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: 'white',
     textAlign: 'center',
-    top: -430,
+    top: -420,
     fontSize: 30
   },
   text2: {
     color: '#FFC436',
-    top: -380,
+    top: -370,
     textAlign: 'center',
-    fontSize: 17,
-    fontWeight: 'bold',
-    textAlign: 'left'
+    fontSize: 16,
+    textAlign: 'left',
+    paddingLeft: 10
   },
   input: {
     height: 40,
@@ -121,8 +116,12 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     color: 'white'
+  },
+  logo1 :{
+    padding: 6,
+    top: 50,
+    resizeMode: 'contain',
   }
-  
 
  
 })

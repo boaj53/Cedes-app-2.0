@@ -18,39 +18,42 @@ export const semestres = [
                                 id: 1,
                                 nombre: "Actividades Economicas" ,
                                 descripcion: 'Observa el video de Actividades Economicas',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/video.jpg"),
                                 enlaces : "https://www.youtube.com/embed/IbWiuX2vUUM"
                             },
                             {
                                 id: 2,
                                 nombre: "La economia como ciencia social" ,
                                 descripcion: 'Observa el video La economia como ciencia social de Gonzalo Cóporo Quintana',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/video.jpg"),
                                 enlaces: "https://www.youtube.com/watch?v=tHIM8sA1UGk"
                             },
                             {
                                 id: 3,
                                 nombre: "Contrucción del objeto" ,
                                 descripcion: 'Lee los textos La construcción del objeto, de Pierre Bourdieu',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
+                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6"
                             },
                             {
                                 id: 4,
                                 nombre: "Economia Politica" ,
                                 descripcion: 'Lee los textos de economia politica, de Federico Engels',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
+                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6"
                             },
                             {
                                 id: 5,
                                 nombre: "Teoría objetiva y teoría subjetiva del valor" ,
                                 descripcion: 'Lee el texto Teoría objetiva y teoría subjetiva del valor de Silvestre Méndez',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
+                                enlaces: "https://drive.google.com/drive/u/1/folders/1jwYN6XWcFli1MfPVgcGMB9HmP99c1XQw"
                             },
                             {
                                 id: 6,
                                 nombre: "Video tutorial de CmapTools" ,
                                 descripcion: 'observa el Video-tutorial: descarga, instalación y uso de CmapTools, de Samuel Sabino Vázquez Sánchez',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/video.jpg"),
                                 enlaces: "https://www.youtube.com/embed/xSAE9i6sM1I",
                             },    
                         ] 
@@ -64,7 +67,7 @@ export const semestres = [
                                 id: 1,
                                 nombre: "Los Agentes Economicos" ,
                                 descripcion: 'Lee el texto de Mauricio Reina, Santa zuluga y Marcela Rozo',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
 
                             },
@@ -72,7 +75,7 @@ export const semestres = [
                                 id: 2,
                                 nombre: "Modelos Economicos" ,
                                 descripcion: 'Lee el texto de Gustavo Vargas Sanchez que te ayudará para completar el cuadro comparativo',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
 
                             },
@@ -80,7 +83,7 @@ export const semestres = [
                                 id: 3,
                                 nombre: "Elementos fundamentales de Economia" ,
                                 descripcion: 'Observa la presentacion de Gonzalo Cóporo Quintana',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
                             },
                         ] 
@@ -93,28 +96,28 @@ export const semestres = [
                                 id: 1,
                                 nombre: "Del caos a la autorregulación de un mercado libre",
                                 descripcion: 'Lees los textos de Octave Gelinier y Emmanuel Pateyron',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
                                 nombre: "Mercado, clases de mercado, competencia perfecta e imperfecta",
                                 descripcion: 'Lees los textos de Silvestre Mendez',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
                                 nombre: "Instituciones y desempeño económico",
                                 descripcion: 'Lees el texto de Jose Ayala Espino',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
                                 nombre: "Instituciones y desempeño económico",
                                 descripcion: 'Lee el texto de Jose Ayala Espino',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
                             },                            
                         ] 
@@ -128,7 +131,7 @@ export const semestres = [
                                 id: 1,
                                 nombre: "Guía a la redacción en el estilo APA, 6ta edición",
                                 descripcion: 'Consulta la guia de Sylvia Zavala',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/consulta.jpg"),
                                 enlaces : "",
 
                             }
