@@ -24,14 +24,14 @@ const Subcompetencia = ({ route }) => {
 
 
 
-    const itemsContendo = materia.subcompetencia.map((data) => {
+    const itemsContenido = materia.subcompetencia.map((data) => {
       return (
         data.contenido.map((dataContenido) => (dataContenido.nombre))
       )
     });
 
     // console.log(itemsContendo[0])
-    setListContenido(itemsContendo)
+    setListContenido(itemsContenido)
 
 
 
@@ -85,7 +85,7 @@ const Subcompetencia = ({ route }) => {
         marginTop: 20
 
       }}>
-        Temas
+        Subcompetencias
       </Text>
 
 
@@ -178,8 +178,9 @@ const Subcompetencia = ({ route }) => {
 
                     <Button
                       onPress={() => {
-                        itemContenido.enlaces &&
-                          Linking.openURL(itemContenido.enlaces)
+                        navigation.navigate("Contenido", { materia: itemContenido })
+                        /*itemContenido.enlaces &&
+                          Linking.openURL(itemContenido.enlaces) */
                       }}
                       style={{ borderRadius: 20, fontSize: 10 }}
                       title="Ver mas"

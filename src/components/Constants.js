@@ -16,17 +16,19 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Actividades Economicas" ,
+                                nombre: "Actividades Preliminar" ,
                                 descripcion: 'Observa el video de Actividades Economicas',
                                 image: require("../../assets/Acciones/video.jpg"),
-                                enlaces : "https://www.youtube.com/embed/IbWiuX2vUUM"
+                                enlaces : "https://www.youtube.com/embed/IbWiuX2vUUM",
+                                detalles: "Las actividades económicas que hoy en día se realizan en la familia, el trabajo, diversiones, etcétera, han sido producto de la evolución y condición social del ser humano. Debido a ello y por el considerable peso que tienen en el quehacer cotidiano, es necesario conocer las características más importantes de dichas actividades económicas.",
                             },
                             {
                                 id: 2,
-                                nombre: "La economia como ciencia social" ,
+                                nombre: "Actividad 1" ,
                                 descripcion: 'Observa el video La economia como ciencia social de Gonzalo Cóporo Quintana',
                                 image: require("../../assets/Acciones/video.jpg"),
-                                enlaces: "https://www.youtube.com/watch?v=tHIM8sA1UGk"
+                                enlaces: "https://www.youtube.com/watch?v=tHIM8sA1UGk",
+                                detalles: "La economía es una ciencia social que ha cambiado sus postulados conforme el desarrollo de los sistemas económicos, los cuales han pasado de ser simples intercambios económicos a complicadas transacciones financieras en los bancos, casas de bolsa, etcétera. Actualmente el sistema económico es más complejo que el que vivieron los clásicos de la economía (Adam Smith, David Ricardo y Carlos Marx), ya que se caracteriza principalmente por el predominio del capital financiero sobre las actividades productivas, dentro del contexto de la globalización neoliberal.",
                             },
                             {
                                 id: 3,
