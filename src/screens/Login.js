@@ -1,26 +1,37 @@
-import { StyleSheet, Text, View, Image, TextInput, Button, Alert, KeyboardAvoidingView, TouchableWithoutFeedback, Keyboard } from 'react-native';
+import { StyleSheet, Text, View, Image, TextInput, Button,  ImageBackground } from 'react-native';
 import React, { useState } from 'react';
-import { LinearGradient } from 'expo-linear-gradient';
 
-const Login = () => {
+
+const Login = ({ navigation }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
   return (
-    <KeyboardAvoidingView style={{ flex: 1 }} behavior="padding">
-      <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
-        <View style={{ flex: 1, backgroundColor: 'red' }}>
-          <Image source={require('../../assets/Login/Login.png')} style={styles.imagen} />
-          <LinearGradient
-            colors={['transparent', '#0C356A']}
-            style={styles.gradient}
-          />
 
-          {/* Agregar todos los elementos en este view */}
-          <View style={styles.forma}>
-            <Text style={styles.text}>INGRESE USUARIO</Text>
+    // <ScrollView style={{ flex: 1 }}>
 
-            <Text style={styles.text2}>Correo electrónico</Text>
+    <ImageBackground
+      source={require('../../assets/Pantalla_Login.png')}
+      resizeMode="cover"
+      style={{
+        position: "absolute",
+        left: 0,
+        right: 0,
+        bottom: 0,
+        top: 0,
+      }}
+    >
+
+      <View style={{ flex: 1 }}>
+        <Image source={require('../../assets/logoUnach.png') }  style={styles.imagen}/> 
+        <Image source={require('../../assets/CedesLogo.png') }  style={styles.imagen2}/> 
+
+        {/* Agregar todos los elementos en este view */}
+        <View style={styles.forma}>
+          <Text style={styles.text}>INGRESE USUARIO</Text>
+
+          <View>
+            <Text style={styles.text2}>Correo Electrónico</Text>
             <TextInput
               placeholder='alumno@unach.mx'
               placeholderTextColor={'#0174BE'}
@@ -41,21 +52,21 @@ const Login = () => {
               secureTextEntry={true}
             />
 
-            <View style={styles.boton}>
-              <Button
-                title="INGRESA"
-                onPress={() => Alert.alert('Hola Alumno')}
-              />
-            </View>
           </View>
-
-          <LinearGradient
-            colors={['transparent', '#0C356A']}
-            style={styles.gradient}
-          />
+          <View style={styles.boton}>
+            <Button
+              title="INGRESA"
+              onPress={() => navigation.navigate('Semestres')}
+            />
+          </View>
         </View>
-      </TouchableWithoutFeedback>
-    </KeyboardAvoidingView>
+
+      </View>
+    </ImageBackground>
+
+
+    // </ScrollView>
+
   );
 }
 
@@ -64,58 +75,70 @@ export default Login;
 const styles = StyleSheet.create({
   forma: {
     flex: 1,
-    backgroundColor: '#0C356A',
-    marginTop: -151,
-    resizeMode: 'cover',
+    justifyContent: "flex-end",
     alignItems: 'center',
-    paddingTop: 30,  // Espacio superior
+    marginBottom: 60,
+    // backgroundColor: '#0C356A',
+    // marginTop: -153,
+    // resizeMode: 'cover',
+    // paddingTop: 30,  // Espacio superior
   },
-  imagen: {
-    resizeMode: 'contain',
-  },
-  gradient: {
-    position: 'absolute',
-    left: 0,
-    right: 0,
-    top: 330,
-    bottom: 349,
-  },
+
   text: {
     fontWeight: 'bold',
     color: 'white',
     textAlign: 'center',
     fontSize: 30,
-    marginBottom: 18,
-    marginTop: -41
+    top: -85
+    // marginBottom: 18,
+    // marginTop: -40
   },
   text2: {
     color: '#FFC436',
-    textAlign: 'center',
-    marginTop: 20, // Espacio superior
+    textAlign: 'left',
+    marginTop: 0, // Espacio superior
     fontSize: 16,
-    paddingLeft: 10,
-    paddingRight: 110
+    top: -40
+    // paddingLeft: 10,
+    // paddingRight: 110
   },
   text3: {
     color: '#FFC436',
     textAlign: 'center',
-    marginTop: 15, // Espacio superior
+    textAlign: 'left',
+    top: -40,// Espacio superior
     fontSize: 16,
-    paddingRight: 150
+    // paddingRight: 150
   },
   input: {
     height: 40,
     width: 260,
-    marginVertical: 6,
+    marginVertical: 10,
     borderRadius: 10,
     backgroundColor: '#ffff',
     borderColor: '#0C356A',
-    textAlign: 'center',
-    fontSize: 17
+    textAlign: 'left',
+    paddingHorizontal:20,
+    fontSize: 17,
+    top: -50,
+    
   },
   boton: {
     marginTop: 15,
     width: 260,
-    borderRadius: 200
+    borderRadius: 200,
+    top: -30
+  },
+  imagen: {
+    resizeMode: 'contain',
+    height: 110,
+    left: 140,
+    top: 30
+  },
+  imagen2: {
+    resizeMode: 'contain',
+    height: 109,
+    left: 37,
+    top: -80
   }
 });

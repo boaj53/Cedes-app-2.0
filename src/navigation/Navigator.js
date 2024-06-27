@@ -19,7 +19,7 @@ export default function Navigator() {
         <Stack.Screen name="Semestres" component={Semestres} options={{title: 'Semestres', headerStyle: {backgroundColor: '#0C2566'}, headerTintColor: '#fff'}}/>
         <Stack.Screen name= "Materias" component={Materia} options={  ({ title:'Materias', headerStyle: { backgroundColor: '#0C2566' }, headerTintColor: '#fff' })}/>
         <Stack.Screen name= "Subcompetencias" component={Subcompetencia} options={  ({ title:'Subcompetencias', headerStyle: { backgroundColor: '#0C2566' }, headerTintColor: '#fff' })}/>
-        <Stack.Screen name="Contenido" component={Contenido} options={  ({ title:'Contenido', headerStyle: { backgroundColor: '#0C2566' }, headerTintColor: '#fff' })}/>
+        <Stack.Screen name="Contenido" component={Contenido} options={  ({ title:'Detalles', headerStyle: { backgroundColor: '#0C2566' }, headerTintColor: '#fff' })}/>
 
       </Stack.Navigator>
     </NavigationContainer>

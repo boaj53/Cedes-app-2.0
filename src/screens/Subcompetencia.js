@@ -3,7 +3,7 @@ import { useNavigation } from '@react-navigation/native';
 import React from 'react'
 import { useEffect, useState } from "react"
 
-import { semestres } from '../components/Constants'
+
 
 const Subcompetencia = ({ route }) => {
   const [busqueda, setBusqueda] = useState("")
@@ -108,8 +108,7 @@ const Subcompetencia = ({ route }) => {
             <View style={{
               marginHorizontal: 23,
               marginVertical: 10,
-
-            }}>
+            }}>              
               <Text style={{
                 fontWeight: 'bold',
                 color: '#0C356A',
@@ -147,6 +146,7 @@ const Subcompetencia = ({ route }) => {
                     source={itemContenido.image}
                     style={{ borderTopLeftRadius: 15, borderTopRightRadius: 15, height: 150, width: '100%' }}
                   />
+                  {/* Titulo */}
                   <Text style={{
                     fontWeight: 'bold',
                     color: '#0C356A',
@@ -156,18 +156,20 @@ const Subcompetencia = ({ route }) => {
                   }}>
                     {itemContenido.nombre}
                   </Text>
-                  <Text style={{
+
+                  {/* Texto de descripcion*/}
+                 {/* <Text style={{
                     // fontWeight: 'bold',
                     paddingHorizontal: 10,
                     color: '#000',
                     marginTop: 10,
                     fontSize: 14,
                   }}>
-                    {itemContenido.descripcion}
-                  </Text>
+                   {/* {itemContenido.descripcion} }
+                  </Text> */}
 
                   <View style={{
-                    marginTop: 10,
+                    
                     paddingHorizontal: 10,
                     flexDirection: "row",
                     justifyContent: "flex-end",
@@ -178,14 +180,14 @@ const Subcompetencia = ({ route }) => {
 
                     <Button
                       onPress={() => {
-                        navigation.navigate("Contenido", { materia: itemContenido })
+                        navigation.navigate("Contenido", { contenido: itemContenido})
                         /*itemContenido.enlaces &&
                           Linking.openURL(itemContenido.enlaces) */
                       }}
-                      style={{ borderRadius: 20, fontSize: 10 }}
+                      style={{ top: 80}}
                       title="Ver mas"
                       color="#0C2566"
-                    />
+                    /> 
                   </View>
 
                 </View>

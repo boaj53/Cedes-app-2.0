@@ -8,6 +8,32 @@ const Materia = ({ route }) => {
 
   return (
     <View style={styles.container}>
+
+       {/* texto */} 
+      <Text style={{
+        fontWeight: 'bold',
+        color: '#0C356A',
+        fontSize: 18,
+        marginHorizontal: 16,
+        marginTop: 20,
+        justifyContent: 'flex-start'
+
+      }}>
+        Elije tu materia
+      </Text>
+
+       {/* Raya */}
+       <View style={{
+                backgroundColor: "#0C356A",
+                height: 2,
+                marginTop: 10,
+                marginBottom: 10,
+                width: 337,
+                left: 25
+              }}>
+              </View>
+
+
       <FlatList 
         data={item.materias}
         renderItem={({ item }) => (
@@ -22,12 +48,14 @@ const Materia = ({ route }) => {
               borderRadius: 17,
               borderColor: '#FFC436',
               borderWidth: 2,
+              width: 337,
+              height: 221
             }}
             onPress={() => navigation.navigate('Subcompetencias', { materia: item })}
           >
             <Image 
               source={item.image}   
-              style={{ borderTopLeftRadius: 15, borderTopRightRadius: 15, height: 150, width: '100%' }}
+              style={{ borderTopLeftRadius: 15, borderTopRightRadius: 15, height: 163, width: '100%' }}
             />
             <View style={{ paddingHorizontal: 10, marginTop: 10 }}>             
               <Text style={{
@@ -50,7 +78,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'white',
-    alignItems: 'center'
+    
   }
 });
 

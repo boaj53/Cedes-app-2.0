@@ -16,50 +16,54 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Actividades Preliminar" ,
-                                descripcion: 'Observa el video de Actividades Economicas',
-                                image: require("../../assets/Acciones/video.jpg"),
+                                nombre: "Actividad Preliminar" ,
+                                descripcion: 'Actividades Economicas',
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "https://www.youtube.com/embed/IbWiuX2vUUM",
                                 detalles: "Las actividades económicas que hoy en día se realizan en la familia, el trabajo, diversiones, etcétera, han sido producto de la evolución y condición social del ser humano. Debido a ello y por el considerable peso que tienen en el quehacer cotidiano, es necesario conocer las características más importantes de dichas actividades económicas.",
+                                detalles2: "Observa el video Actividades económicas, participa en el foro Actividades económicas y responde la siguiente pregunta: ¿cuáles son las actividades económicas que realizas en tu vida y por qué?"
                             },
                             {
                                 id: 2,
                                 nombre: "Actividad 1" ,
                                 descripcion: 'Observa el video La economia como ciencia social de Gonzalo Cóporo Quintana',
-                                image: require("../../assets/Acciones/video.jpg"),
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces: "https://www.youtube.com/watch?v=tHIM8sA1UGk",
                                 detalles: "La economía es una ciencia social que ha cambiado sus postulados conforme el desarrollo de los sistemas económicos, los cuales han pasado de ser simples intercambios económicos a complicadas transacciones financieras en los bancos, casas de bolsa, etcétera. Actualmente el sistema económico es más complejo que el que vivieron los clásicos de la economía (Adam Smith, David Ricardo y Carlos Marx), ya que se caracteriza principalmente por el predominio del capital financiero sobre las actividades productivas, dentro del contexto de la globalización neoliberal.",
+                                detalles2: "Observa el video La economía como ciencia social, de Gonzalo Cóporo Quintana, y elabora una reseña que tenga la siguiente estructura: ",
+                                detalles3: "• Presentación. Coloca tus datos de identificación en el siguiente orden: logotipo de la Unach, nombre de la licenciatura, tu nombre y el título de la reseña.\n• Introducción. Explica brevemente en qué consiste la reseña.\n• Contenido de la reseña. Explica el proceso de configuración de la economía como ciencia social, sus corrientes teóricas, sus definiciones, nociones preliminares, las características de una ciencia y el tipo de ciencia que representa la economía.\n• Conclusión. Redacta tu interpretación y evaluación sobre cada uno de los temas identificados en el video."
                             },
                             {
                                 id: 3,
-                                nombre: "Contrucción del objeto" ,
+                                nombre: "Actividad 2" ,
                                 descripcion: 'Lee los textos La construcción del objeto, de Pierre Bourdieu',
-                                image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6"
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6",
+                                detalles: "El objeto y método de estudio de la economía se ha construido, desde la economía política clásica marxista, con base en el método dialéctico y en el materialismo histórico. Lee los textos La construcción del objeto, de Pierre Bourdieu et al., y Economía política, de Federico Engels. Posteriormente elabora un resumen de ambos textos, en el que resaltes el objeto de estudio de la economía y el método que utiliza.",
+                                detalles2: "Tu trabajo debe contener una portada con tus datos de identificación en el siguiente orden: Nombre y logotipo de la institución educativa, de la licenciatura; tu nombre y nombre del maestro; título del trabajo, lugar y fecha de elaboración",
+                                detalles3: "Elabora tu actividad en un archivo de Word con una extensión de dos cuartillas y con apego a las reglas ortográficas y gramaticales.",
                             },
                             {
                                 id: 4,
-                                nombre: "Economia Politica" ,
+                                nombre: "Actividad 3" ,
                                 descripcion: 'Lee los textos de economia politica, de Federico Engels',
-                                image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6"
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces: "https://drive.google.com/drive/u/1/folders/1cVNmDf6-akrsfe4aEhu2iOSZ1frORhN6",
+                                detalles: "La economía es una ciencia social con distintas definiciones. Generalmente sólo se conoce la teoría subjetiva del valor, que relaciona la economía con los recursos escasos, una de las tradiciones teóricas más trascendentes es la teoría objetiva del valor, que define la economía como la ciencia que estudia la producción, distribución, intercambio y consumo de bienes.",
+                                detalles2: "Lee el texto Teoría objetiva y teoría subjetiva del valor, de Silvestre Méndez",
+                                detalles3: "Elabora tu actividad en un archivo de Word, con fuente Arial e interlineado de 1.5. Tu trabajo debe contener una portada con tus datos de identificación en el siguiente orden: nombre y logotipo de la institución educativa; nombre de la licenciatura; tu nombre y del maestro; título del trabajo, lugar y fecha de elaboración."
                             },
                             {
                                 id: 5,
-                                nombre: "Teoría objetiva y teoría subjetiva del valor" ,
+                                nombre: "Actividad Integradora" ,
                                 descripcion: 'Lee el texto Teoría objetiva y teoría subjetiva del valor de Silvestre Méndez',
-                                image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces: "https://drive.google.com/drive/u/1/folders/1jwYN6XWcFli1MfPVgcGMB9HmP99c1XQw"
-                            },
-                            {
-                                id: 6,
-                                nombre: "Video tutorial de CmapTools" ,
-                                descripcion: 'observa el Video-tutorial: descarga, instalación y uso de CmapTools, de Samuel Sabino Vázquez Sánchez',
-                                image: require("../../assets/Acciones/video.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces: "https://www.youtube.com/embed/xSAE9i6sM1I",
-                            },    
-                        ] 
-                        
+                                detalles: "Debido a la importancia del tema, realiza una recapitulación de los contenidos y actividades de esta subcompetencia y con base en éstos elabora un mapa conceptual que contenga lo siguiente:",
+                                detalles2: "• Definición de economía\n• El objeto y método de la economía\n• La teoría objetiva y subjetiva del valor\n• Las formas de valor",
+                                detalles3: "Redacta tus ideas de lo general a lo particular, con apego a las reglas ortográficas y gramaticales.\nRealiza tu actividad en un archivo de CmapTools. Para descargar y utilizar el programa observa el Video-tutorial: descarga, instalación y uso de CmapTools, de Samuel Sabino Vázquez Sánchez",
+                            },                               
+                        ],                         
                     },
                     {
                         id: 2,
@@ -67,26 +71,33 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Los Agentes Economicos" ,
+                                nombre: "Actividad Preliminar" ,
                                 descripcion: 'Lee el texto de Mauricio Reina, Santa zuluga y Marcela Rozo',
                                 image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces : "",
-
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/s2ap_elementos.ppt",
+                                detalles: "El sistema económico, de acuerdo con Méndez (2009), es la organización de las actividades económicas que cada sociedad asume históricamente para satisfacer sus necesidades. También se puede definir como el conjunto de mecanismos organizadores de las actividades económicas.",
+                                detalles2: "Para que conozcas mejor la dinámica del sistema económico, es necesario que identifiques las actividades que implican los actos económicos, el uso de los factores productivos, los sectores económicos, etcétera.",
+                                detalles3: "Observa la presentación Elementos fundamentales de economía, de Gonzalo Cóporo Quintana, participa en el foro Elementos fundamentales de economía y responde las siguientes preguntas:\n 1. ¿Cuáles son los problemas básicos que plantea la economía?\n 2. ¿Tienes conocimiento de los factores productivos?\n 3. ¿Qué entiendes por factor productivo?\n 4. ¿Cuáles son los sectores económicos o principales actividades de una economía? \nRedacta tus respuestas con apego a las reglas ortográficas y gramaticales y comenta la participación de dos de tus compañeros. Esta actividad es importante porque te ayuda a activar tus conocimientos previos sobre los conceptos que se abordarán en las siguientes actividades de aprendizaje"
                             },
                             {
                                 id: 2,
-                                nombre: "Modelos Economicos" ,
+                                nombre: "Actividad 1" ,
                                 descripcion: 'Lee el texto de Gustavo Vargas Sanchez que te ayudará para completar el cuadro comparativo',
                                 image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces : "",
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/s2a1_agentes.pdf",
+                                detalles: "Los agentes económicos son unidades de producción y de consumo que satisfacen sus necesidades por medio del intercambio de bienes y servicios; sólo dos de estos agentes (gobierno y familias) pueden producir y consumir al mismo tiempo dentro de un sistema económico dinámico, en el cual el gobierno es un regulador del mercado.",
+                                detalles2: "Lee el texto Los agentes económicos, de Mauricio Reina, Sandra Zuluaga y Marcela Rozo; enseguida, y para ampliar tus conocimientos sobre este tema, realiza una investigación sobre las definiciones y los bienes de los agentes económicos que a continuación se enlistan: \n•	La familia (agente económico) \n•	Las empresas (agente económico) \n•	El gobierno (agente económico) \n•	Bienes de consumo \n•	Bienes de capital \n•	Bienes intermedios",
+                                detalles3: "Después de realizar la investigación, elabora un reporte con la información más importante. Consulta por lo menos cinco fuentes bibliográficas porque se tomarán en cuenta para tu calificación. \nEsta actividad te permite entender el movimiento microeconómico y su relación con los factores productivos (tierra, trabajo y capital) y el sistema económico."
 
                             },
                             {
                                 id: 3,
-                                nombre: "Elementos fundamentales de Economia" ,
+                                nombre: "Actividad Integradora" ,
                                 descripcion: 'Observa la presentacion de Gonzalo Cóporo Quintana',
                                 image: require("../../assets/Acciones/presentacion.jpg"),
-                                enlaces : "",
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/s2ai_modelos.pdf",
+                                detalles: "El funcionamiento del sistema económico se ha descrito a través de modelos económicos, desde el modelo de Quesnay hasta la versión de corte estructural de la Comisión Económica para América Latina y el Caribe (CEPAL), incluyendo, entre otros, el modelo de flujo circular y el de Schumpeter.",
+                                detalles2: "Lee el texto Modelos económicos, de Gustavo Vargas Sánchez",
                             },
                         ] 
                     },
@@ -96,51 +107,54 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Del caos a la autorregulación de un mercado libre",
+                                nombre: "Actividad Preliminar",
                                 descripcion: 'Lees los textos de Octave Gelinier y Emmanuel Pateyron',
                                 image: require("../../assets/Acciones/leer.jpg"),
                                 enlaces : "",
+                                detalles: "El mercado en economía, independientemente de su forma física, es el espacio donde se intercambian bienes, servicios y capitales, por ello, puede ser desde un tianguis hasta la bolsa de valores. La mayoría de las personas conoce distintos tipos de mercado; en esta actividad debes identificar algunos aspectos comunes entre ellos.",
+                                detalles2: "Participa en el wiki El mercado económico y menciona cuántos tipos de mercado conoces y cuáles son sus características. En caso de que sea necesario, puedes consultar en fuentes impresas o digitales, pero no olvides anotar las referencias de las fuentes. El último estudiante en participar en el wiki debe redactar la definición final del concepto mercado, con base en las aportaciones de sus compañeros, y ordenar alfabéticamente las referencias utilizadas."
                             },
                             {
                                 id: 2,
-                                nombre: "Mercado, clases de mercado, competencia perfecta e imperfecta",
+                                nombre: "Actividad 1",
                                 descripcion: 'Lees los textos de Silvestre Mendez',
                                 image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces : "",
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/s3a1_caos.pdf",
+                                detalles: "El mercado actual es una institución que se ha configurado paulatinamente desde el siglo XII con las premisas del mercado libre; gracias a esta configuración, el lucro y la máxima ganancia obtenidos son primicia sobre las relaciones sociales.\nUna de las características básicas del mercado es el principio de autorregulación, cuya lógica consiste en que el precio de un producto encuentra su punto de equilibrio a partir de la coincidencia entre la oferta y la demanda, bajo un modelo de competencia perfecta.",
+                                detalles2: "Lee los textos Del caos a la autorregulación de un mercado libre, de Octave Gélinier y Emmanuel Pateyron, y Mercado, clases de mercado, competencia perfecta e imperfecta, de Silvestre Méndez. Posteriormente elabora un resumen en el que abordes los siguientes temas: el origen del mercado, el mercado y su clasificación, la oferta y la demanda, la competencia perfecta e imperfecta y el proceso de fijación de los precios.\nEl resumen debe tener una extensión de tres cuartillas con apego a las reglas ortográficas y gramaticales.",
+                                detalles3: "Tu trabajo debe contener una portada con tus datos de identificación en el siguiente orden: nombre y logotipo de la institución educativa; nombre de la licenciatura; tu nombre y del maestro; título del trabajo y lugar y fecha de elaboración."
                             },
                             {
                                 id: 3,
-                                nombre: "Instituciones y desempeño económico",
+                                nombre: "Actividad Integradora",
                                 descripcion: 'Lees el texto de Jose Ayala Espino',
-                                image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 3,
-                                nombre: "Instituciones y desempeño económico",
-                                descripcion: 'Lee el texto de Jose Ayala Espino',
-                                image: require("../../assets/Acciones/leer.jpg"),
-                                enlaces : "",
-                            },                            
-                        ] 
+                                image: require("../../assets/Acciones/presentacion.jpg"),
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/s3ai_instituciones.pdf",
+                                detalles: "El sistema económico no funciona con la precisión que suelen describir los modelos formales de la economía como la competencia perfecta, ya que actualmente en el capitalismo predomina la competencia imperfecta, cuyo mercado se orienta a la lógica de los monopolios y de los oligopolios y además existen otros factores como los institucionales, que deben ser tomados en cuenta en el desempeño del sistema económico.",
+                                detalles2: "Los factores institucionales pueden ser instituciones formales (sistemas legales) o informales (códigos de conducta), que al igual que los costos de transacción y el comportamiento humano son aspectos que se incorporan en las actuales teorías económicas, particularmente en el neo institucionalismo.",
+                                detalles3: "Lee el texto Instituciones y desempeño económico, de José Ayala Espino, y con base en el texto elabora un mapa conceptual.",
+                            },                                                       
+                        ], 
                     },
                     {
                         id: 4,
                         nombre: "Producto Final",
+                        image: require("../../assets/Acciones/leer.jpg"),
                         contenido: 
                         [
                             {
                                 id: 1,
-                                nombre: "Guía a la redacción en el estilo APA, 6ta edición",
+                                nombre: "Producto Final",
                                 descripcion: 'Consulta la guia de Sylvia Zavala',
                                 image: require("../../assets/Acciones/consulta.jpg"),
-                                enlaces : "",
-
-                            }
-                        ]
-
-                    }
-                ]
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/pf_guia_apa_6ta.pdf",
+                                detalles: "Ahora que has finalizado el estudio de las tres subcompetencias de esta unidad elabora, como producto final, un ensayo en el que identifiques los elementos fundamentales de la economía y el funcionamiento del mercado.",
+                                detalles2: "El ensayo debe tener la siguiente estructura:\n• Presentación. Debe contener tus datos de identificación en el siguiente orden: nombre y logotipo de la institución educativa; nombre del módulo, de la licenciatura y de la unidad de competencia; tu nombre y el del maestro; título del ensayo y lugar y fecha de elaboración.\n• Índice (una cuartilla).\n•	Introducción. Explicar el objetivo y la estructura del ensayo (media cuartilla).\n•	Contenido. Desarrollar el contenido de las tres subcompetencias con base en los siguientes temas (cuatro cuartillas):\no	Objeto y método de la economía política \no	Agentes económicos y funcionamiento del sistema económico \no	Análisis de la oferta y demanda del mercado y el papel de las instituciones en la economía \n Debes explicar con tus propias palabras los puntos principales del tema. Puedes hacer citas textuales, correctamente referidas, para enriquecer tu trabajo.\n• Conclusiones. Redactar la importancia de la identificación de los elementos fundamentales de la economía y el funcionamiento del mercado (media cuartilla).\n•	Bibliografía. Consultar por lo menos tres fuentes y redactar las referencias con base en la Guía a la redacción en el estilo APA, 6ta edición, de Sylvia Zavala Trías.\n•	Anexos. Agregar anexos sólo si es necesario; pueden ser cuadros, gráficas, esquemas, mapas, diagramas, fotos, etcétera. Es importante anotar la referencia de cada anexo.",
+                                detalles3: "Redacta el ensayo en un documento de Word, con fondo blanco, fuente Arial, color negro, tamaño 12, interlineado de 1.5 y márgenes de 2.5 cm. \nEl producto final tiene un valor de 20 puntos, los cuales se sumarán al puntaje de las subcompetencias para determinar tu calificación en esta unidad."
+                            },
+                        ],
+                    },
+                ],
                                                     
             },
             {
@@ -157,47 +171,40 @@ export const semestres = [
                             
                             {
                                 id: 1,
-                                nombre: "Constitución Política de los Estados Unidos Mexicanos",
+                                nombre: "Actividad Preliminar",
                                 descripcion: 'Lee el capitulo IV de los Ciudadanos mexicanos, especificamente los articulos 35 y 36',
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "Elementos del Estado",
+                                nombre: "Actividad 1",
                                 descripcion: 'Observa el video de Guadalupe Guillen Flores',
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
-                                nombre: "Elementos Constitutivos del Estado",
+                                nombre: "Actividad 2",
                                 descripcion: 'Lee el texto de Salvador Alvarado Garibaldi',
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 4,
-                                nombre: "El Estado como Tipo",
+                                nombre: "Actividad 3",
                                 descripcion: 'Lee el texto de George H. Sabine',
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {                                
                                 id: 5,
-                                nombre: "Guía a la redacción en el estilo APA, 6ta edición",
+                                nombre: "Actividad Integradora",
                                 descripcion: 'Consulta la guia de Sylvia Zavala',
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
-                            },
-                            {                                
-                                id: 6,
-                                nombre: "Analisis Estructural de la Teoria de Estado",
-                                descripcion: "Lee de la página 1 a la 3 del capítulo 1.1 Concepto de Estado del texto de Thanya Patricia Méndez Beltrán",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                        ]                   
+                            },                            
+                        ],                   
                     },
                     {
                         id: 2,
@@ -205,14 +212,65 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Del Estado homogéneo al Estado plural (El aspecto político: La crisis del Estado-nación)",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Lee el texto de Luis Villoro",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
-                            },    
-                        ]                   
-                    },                    
-                ]
+                                detalles: "",
+                                detalles2: "",
+                                detalles3: "",
+                            },   
+                            {
+                                id: 2,
+                                nombre: "Actividad 1",
+                                descripcion: "Lee el texto de Luis Villoro",
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces : "",
+                                detalles: "",
+                                detalles2: "",
+                                detalles3: "",
+                            },  
+                            {
+                                id: 3,
+                                nombre: "Actividad 2",
+                                descripcion: "Lee el texto de Luis Villoro",
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces : "",
+                                detalles: "",
+                                detalles2: "",
+                                detalles3: "",
+                            },
+                            {
+                                id: 4,
+                                nombre: "Actividad Integradora",
+                                descripcion: "Lee el texto de Luis Villoro",
+                                image: require("../../assets/Acciones/presentacion.jpg"),
+                                enlaces : "",
+                                detalles: "",
+                                detalles2: "",
+                                detalles3: "",
+                            },
+                        ],                   
+                    }, 
+                    {
+                        id: 3,
+                        nombre: "Producto Final",
+                        image: require("../../assets/Acciones/leer.jpg"),
+                        contenido: 
+                        [
+                            {
+                                id: 1,
+                                nombre: "Producto Final",
+                                descripcion: 'Consulta la guia de Sylvia Zavala',
+                                image: require("../../assets/Acciones/consulta.jpg"),
+                                enlaces : "https://cv.unach.mx/uvfile/uv/lesi/m1/economia/pf_guia_apa_6ta.pdf",
+                                detalles: "",
+                                detalles2: "",
+                                detalles3: "",
+                            },
+                        ],
+                    },                   
+                ],
             },
             {
                 id: 3,
@@ -226,75 +284,26 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "El Estado y sus elementos",
+                                nombre: "Actividad 1",
                                 descripcion: "Lee el texto de Hilda María Jiménez Acevedo y Marisabel Rotondo Dall'orso",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "El Estado federal como Estado compuesto",
+                                nombre: "Actividad 2",
                                 descripcion: "Lee el texto de Juan José Solozábal Echevarría",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },                                                   
                             {
                                 id: 3,
-                                nombre: "El federalismo en los Estados Unidos Mexicanos",
+                                nombre: "Actividad Integradora",
                                 descripcion: "Lee el texto de Enrique Cabrero Mendoza",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
-                            },
-                            {
-                                id: 4,
-                                nombre: "Los gobiernos estatales en los Estados Unidos Mexicanos",
-                                descripcion: "Lee el texto de Guillermo M. Cejudo",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 5,
-                                nombre: "Federalismo y gobierno local",
-                                descripcion: "Lee el texto de Pedro Martínez Martínez",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 6,
-                                nombre: "Relaciones intergubernamentales",
-                                descripcion: "Lee el texto de Arturo Pontifes Martínez",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 7,
-                                nombre: "Federalismo y relaciones intergubernamentales",
-                                descripcion: "Lee el texto de María del Carmen Ainaga Vargas",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 8,
-                                nombre: "Evolución de las relaciones intergubernamentales en México: la búsqueda de un nuevo arreglo institucional ante una nueva geografía del poder político (1980-2000)",
-                                descripcion: "Lee el texto de Ady P. Carrera Hernández",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 9,
-                                nombre: "Constitución Política de los Estados Unidos Mexicanos",
-                                descripcion: "Lee la constitucion politica de los estados unidos mexicanos",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 9,
-                                nombre: "Reflexiones y perspectivas del federalismo",
-                                descripcion: "Lee el texto de Marco Antonio Lara Martínez",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                        ]                         
+                            },                                                                                                                                                                                            
+                        ],                         
                     }, 
                     {
                         id: 2,
@@ -302,56 +311,48 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Marco Constitucional",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Lee el texto de Norma Estela Pimentel",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "Conceptos del municipio y derecho municipal",
+                                nombre: "Actividad 1",
                                 descripcion: "Lee el texto de Jorge Carlos Adame Garcia",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
-                                nombre: "El principio de la división de poderes",
+                                nombre: "Actividad 2",
                                 descripcion: "Lee el texto",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 4,
-                                nombre: "La división de poderes en México",
+                                nombre: "Actividad Integradora",
                                 descripcion: "Lee el texto",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
-                            },
-                            {
-                                id: 5,
-                                nombre: "Constitución Política del Estado de Chiapas",
-                                descripcion: "Lee los títulos Tercero y Quinto de la Constitución Política de los Estados Unidos Mexicanos, y los títulos Tercero, Cuarto, Quinto, Séptimo y Octavo ",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 6,
-                                nombre: "Ley Orgánica de la Administración Pública del Estado de Chiapas",
-                                descripcion: "Consulta los siguientes documentos oficiales",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                            {
-                                id: 7,
-                                nombre: "Ley Orgánica Municipal del Estado de Chiapas",
-                                descripcion: "Consulta los siguientes documentos oficiales",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                        ]                         
+                            },                                                        
+                        ],                         
                     },
-                ]
+                    {
+                        id: 3,
+                        nombre: "Prodcuto Final",
+                        contenido: [
+                            {
+                                id: 1,
+                                nombre: "Producto Final",
+                                descripcion: "Lee el texto de Norma Estela Pimentel",
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces : "",
+                            },
+                        ],
+                    },
+                ],
             },
             {
                 id: 4,
@@ -365,7 +366,7 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Fundamentos metodológicos",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Lee el texto del libro Metodología de la investigación social cuantitativa de López-Roldán y Fachelli (2020)",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
@@ -379,14 +380,14 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Objetividad y subjetividad del conocimiento”. ",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "observa el video y reflexiona sobre los fenómenos sociales que existen en tu comunidad ",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "La toma de decisiones metodológicas en la investigación social",
+                                nombre: "Actividad 1",
                                 descripcion: "lee el documento de Mayra Margarito Gaspar",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
@@ -400,7 +401,7 @@ export const semestres = [
                         [
                             {
                                 id: 1,
-                                nombre: "Video tutorial de Google Sites",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Observa el video que te ayudará a como crear un sitio en google sites",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
@@ -421,40 +422,33 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Números factoriales y análisis combinatorio",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Lee la presentacion de Marco Antonio Lara Martínez",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "Razonamiento matemático en la vida cotidiana",
+                                nombre: "Actividad 1",
                                 descripcion: "Observa el video de Carlomagno de Jesús Guillén Navarro",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
-                                nombre: "Las matemáticas: dogma y racionalismo",
+                                nombre: "Actividad 2",
                                 descripcion: "Lee el texto de la Universidad de Chile",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 4,
-                                nombre: "Las ideas de Pólya en la resolución de problemas",
+                                nombre: "Actividad Integradora",
                                 descripcion: "Lee el texto de Cristian Alfaro",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
-                            },
-                            {
-                                id: 5,
-                                nombre: "George Pólya: estrategias para la solución de problemas",
-                                descripcion: "Lee el texto del Departamento de Matemáticas del Instituto de Educación Secundaria Rosa Chacel",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            },
-                        ]                         
+                            },                           
+                        ],                         
                     },
                 ]
             },
@@ -470,40 +464,33 @@ export const semestres = [
                         contenido: [
                             {
                                 id: 1,
-                                nombre: "Intro Sociedad Actual",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Analiza la infografía de Alfaro",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "Texto Introducción: dinámicas geopolíticas globales y el futuro de la democracia en América Latina",
+                                nombre: "Actividad 1",
                                 descripcion: "Lee el texto de Bernardo Sorj y Sergio Fausto",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
-                                nombre: "Formato para síntesis y resúmenes",
+                                nombre: "Actividad 2",
                                 descripcion: "Lee el formato para síntesis y resúmenes de Alfaro",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 4,
-                                nombre: "Consolidación democrática, gobernabilidad y violencia política en América Latina",
+                                nombre: "Actividad Integradora",
                                 descripcion: "Lee el texto de Sergio Salinas Cañas",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                image: require("../../assets/Acciones/presentacion.jpg"),
                                 enlaces : "",
-                            },
-                            {
-                                id: 5,
-                                nombre: "Consolidación democrática, gobernabilidad y violencia política en América Latina",
-                                descripcion: "Lee el texto de Sergio Salinas Cañas",
-                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
-                                enlaces : "",
-                            }
-                        ]                         
+                            },                            
+                        ],                         
                     },
                     {
                         id: 2, 
@@ -512,26 +499,40 @@ export const semestres = [
                         [
                             {
                                 id: 1,
-                                nombre: "El “Consenso de Washington” ¿Paradigma económico del capitalismo triunfante?",
+                                nombre: "Actividad Preliminar",
                                 descripcion: "Lee el texto de Josep Mària Serrano",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 2,
-                                nombre: "La globalización como fenómeno político, económico y social",
+                                nombre: "Actividad 1",
                                 descripcion: "Lee y analiza el artículo de Flores",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
                             {
                                 id: 3,
-                                nombre: "¿Qué es la globalización? ",
+                                nombre: "Actividad 2",
                                 descripcion: "Observa el video",
                                 image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
                                 enlaces : "",
                             },
 
+                        ]
+                    },
+                    {
+                        id: 3, 
+                        nombre: "Producto Final",
+                        contenido: 
+                        [
+                            {
+                                id: 1,
+                                nombre: "Producto Final",
+                                descripcion: "Lee el texto de Josep Mària Serrano",
+                                image: require("../../assets/Materias/PrimerSemestre/Economia_Mercado_1.jpg"),
+                                enlaces : "",
+                            },
                         ]
                     }
                 ]
